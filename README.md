@@ -21,6 +21,3 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/590267498192961540?borderRadius=20px&hideDiscrim=true&theme=dark)](https://discord.com/users/590267498192961540)
 
 <br/>
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=Cyberghxst&count_private=true&theme=synthwave&border_color=141321&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
->
