@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cyberghxst</h1>
-<h3 align="center">I’m a person who likes to code. I also make music.</h3>
+<h1 align="center">👋 Hi, I'm Cyberghxst.</h1>
+<h3 align="center">I’m a person who likes to code. I also make music. From México baby.</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
