@@ -1,21 +1,33 @@
-<h1 align="center">Hi, I'm CGX.</h1>
-<h2 align="center">I like to code, cats, and make music.</h2>
-<h3 align="center">
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Cyberghxst?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-  <img src="https://img.shields.io/twitter/follow/cyberghxstmusic?logo=twitter&style=for-the-badge" alt="Cyberghxst" />
-</h3>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUzclkbLsI7SU-bpLU87LWTP3YN9g7oFkQ2vOJqhirn03qEeex9M2vo5N&s=10" align="right" height=100 alt="cat">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cyberghxstmusic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyberghxstmusic" height="30" width="40" /></a>
-<a href="https://fb.com/cyberghxstmusic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cyberghxstmusic" height="30" width="40" /></a>
-<a href="https://instagram.com/cyberghxstmusic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyberghxstmusic" height="30" width="40" /></a>
-</p>
+<h1 align="center">Cyberghxst</h1>
+<p>Graduated in Mechatronics Engineering. Passionate for programming, automation, music, travels, cars and cats.
+I am a person that enjoys technology and music, trying to stay in touch with the last technology available today.</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-<br/>
-<h3 align="left">What im doing?</h3>
+----
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/590267498192961540?borderRadius=20px&hideDiscrim=true&theme=dark)](https://discord.com/users/590267498192961540)
-<br/>
+<h2>Experiences</h2>
+<h3>Programming Languages</h3>
+<p>Below, are listed some languages I am familiar with.</p>
+<ul>
+	<li>TypeScript</li>
+	<li>JavaScript</li>
+	<li>Python</li>
+	<li>Nim</li>
+	<li>C++</li>
+	<li>C</li>
+</ul>
+
+<h2>Libraries and Packages</h2>
+<p>Some libraries and packages I maintained in my free time.</p>
+<ul>
+	<li><a href="https://npmjs.com/package/easy-api.ts">easy-api.ts</a>: A Node.js library to create basic API's with ease.</li>
+	<li><a href="https://npmjs.com/package/bdjs">bdjs</a>: A node.js library to create Discord bots.</li>
+	<li><a href="https://npmjs.com/package/erine">erine</a>: A node.js library to simplify the creation of Discord bots as framework.</li>
+	<li><a href="https://npmjs.com/package/@tryforge/forge.music">ForgeMusic</a>: Extension to add music functionality to your ForgeScript bot.</li>
+</ul>
+
+----
+
+<h2>What am I doing now</h2>
+<img src="https://lanyard.cnrad.dev/api/590267498192961540?borderRadius=20px&hideDiscrim=true&theme=dark" alt="d" width="400">
