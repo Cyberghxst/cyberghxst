@@ -27,6 +27,12 @@ I am a person that enjoys technology and music, trying to stay in touch with the
 	<li><a href="https://npmjs.com/package/@tryforge/forge.music">ForgeMusic</a>: Extension to add music functionality to your ForgeScript bot.</li>
 </ul>
 
+<h2>Projects I Made</h2>
+<p>Here you will find some interesting projects I made for fun or something.</p>
+<ul>
+	<li><a href="https://github.com/Cyberghxst/CocoaTreeDetection">Cocoa Tree Detector</a>: A cocoa tree detector made with YOLO on a Raspberry Pi.</li>
+</ul>
+
 ----
 
 <h2>What am I doing now</h2>
